@@ -2,7 +2,7 @@
   "port": 80,
   "redirects": {
     "localhost": {
-      "host": "http://pksunkara.github.com",
+      "host": "http://weakcuring.net",
       "code": 302
     },
     "*": {
